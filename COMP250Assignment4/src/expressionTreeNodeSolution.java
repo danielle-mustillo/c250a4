@@ -9,7 +9,7 @@ class expressionTreeNodeSolution {
         leftChild = rightChild = parent = null;
     }
     
-    // Constructor
+    
     /* Arguments: String s: Value to be stored in the node
                   expressionTreeNodeSolution l, r, p: the left child, right child, and parent of the node to created      
        Returns: the newly created expressionTreeNodeSolution               
